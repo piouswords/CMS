@@ -9,7 +9,10 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
+
 gem 'zurb-foundation'
+gem 'ancestry'
+gem 'protected_attributes'
 
 group :doc do
   gem 'sdoc', require: false
